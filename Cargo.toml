@@ -1,0 +1,21 @@
+[package]
+name = "python_installer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.28", features = ["full"] }
+reqwest = { version = "0.11", features = ["stream"] }
+indicatif = "0.17"
+futures-util = "0.3"
+is_elevated = "0.1"
+embed-manifest = "1.4"
+
+[build-dependencies]
+embed-manifest = "1.4"
+
+[package.metadata.winres]
+OriginalFilename = "python_installer.exe"
+LegalCopyright = "©zycraft2024"
+FileDescription = "Python Installer"
+ProductName = "Python Installer"
