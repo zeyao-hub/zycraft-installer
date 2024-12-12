@@ -1,0 +1,9 @@
+@echo off
+python clear.py
+python dllist.py
+python missurl.py
+python fixmod.py
+python delup_date.py
+python clearmods.py
+python unzip.py
+python finish!.py
