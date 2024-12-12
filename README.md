@@ -19,7 +19,7 @@
 - 官网：[mc.lzyablo.top](http://mc.lzyablo.top)
 - 个人博客：[blo.lzyablo.top/home](http://blo.lzyablo.top/home)
 
-![Main Image](main.png)
+![Main Image](main.jpg)
 
 ---
 
@@ -42,4 +42,4 @@ This updater is used solely for automatically updating game files, including but
 - Official Website: [mc.lzyablo.top](http://mc.lzyablo.top)
 - Personal Blog: [blo.lzyablo.top/home](http://blo.lzyablo.top/home)
 
-![Main Image](main.png)
+![Main Image](main.jpg)
